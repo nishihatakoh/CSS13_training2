@@ -1,7 +1,36 @@
 
-body{
-    width: 360px;
-    background: url(../img/card.jpg) no-repeat center;
-    background-size: auto;
-    margin: 100px auto;
+.card{
+  width: 360px;
+  height: auto;
+  margin: 100px auto;
+  box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.2);
 }
+.img{
+  width: 100%;
+}
+.category{
+  background-color: #008888;
+  color: white;
+  margin-top: 15px;
+  font-size: 14px;
+  padding: 5px;
+}
+
+.contents{
+  font-size:18px;
+  margin-bottom: 30px;
+}
+
+.breakfast{
+  font-size: 14px;
+  margin-bottom: 15px;
+  color:#008888 ;
+    text-align: right;
+}
+
+.date{
+  font-size: 14px;
+  margin-left: 20px;
+    text-align: right;
+}
+
