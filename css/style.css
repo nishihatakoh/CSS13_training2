@@ -1,0 +1,7 @@
+
+body{
+    width: 360px;
+    background: url(../img/card.jpg) no-repeat center;
+    background-size: auto;
+    margin: 100px auto;
+}
